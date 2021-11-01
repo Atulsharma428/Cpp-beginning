@@ -40,12 +40,5 @@ cout << "The integer is: " << num1 << endl;
 cout << "The double is: " << num3 << endl;
 
 
-
-
-
-
-
-
-
 return 0;
 }
